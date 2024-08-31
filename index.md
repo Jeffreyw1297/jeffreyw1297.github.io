@@ -17,5 +17,4 @@ Welcome to my website! My name is Jeffrey Wang, and I am a Cornell University un
 </table>
 
 ## Contact Info
-Email: jw2689@cornell.edu </br>
-Linkedin: https://www.linkedin.com/in/jeffrey-wang-084913296/
+Email: jw2689@cornell.edu
