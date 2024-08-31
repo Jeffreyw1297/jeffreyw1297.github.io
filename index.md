@@ -2,7 +2,7 @@
 title: Home
 layout: template
 filename: index
-order: 1
+order: 2
 show_tab: 0
 --- 
 
